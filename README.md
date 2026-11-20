@@ -6,6 +6,7 @@
 
 <br/>
 
+<a href="https://www.linkedin.com/in/william-kee/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <img src="https://komarev.com/ghpvc/?username=capthusky&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views"/>
 <a href="https://github.com/capthusky?tab=followers"><img src="https://img.shields.io/github/followers/capthusky?style=for-the-badge&logo=github&color=fbbf24&labelColor=0b1220" alt="followers"/></a>
 
