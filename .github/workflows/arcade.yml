@@ -1,0 +1,17 @@
+name: Generate Arcade Contribution Graphs
+on:
+  schedule: [{cron: "0 */12 * * *"}]
+  workflow_dispatch:
+  push: {branches: [main], paths: [".github/workflows/arcade.yml"]}
+permissions: {contents: write}
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          games: 'pacman,breakout'
+      - uses: crazy-max/ghaction-github-pages@v4
+        with: {target_branch: output, build_dir: dist, keep_history: false}
+        env: {GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"}

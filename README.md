@@ -11,23 +11,22 @@
 
 </div>
 
-## 👋 About
+## 🏭 Line Status
 
-```python
-class Capthusky:
-    def __init__(self):
-        self.role = "Automation & AI Engineer"
-        self.domain = "Manufacturing · MES · ERP · Industrial IoT"
-        self.focus = [
-            "Computer vision for assembly-line inspection",
-            "MES / CMMS / QA modules on Frappe + ERPNext",
-            "Shop-floor dashboards (Grafana, Metabase)",
-            "Workflow automation (n8n, Node-RED, RPA)",
-            "LLM agents wired into everyday tools",
-        ]
+```yaml
+operator:   capthusky
+station:    Automation & AI Engineering
+plant:      Manufacturing · MES · ERP · Industrial IoT
+status:     🟢 RUNNING
 
-    def motto(self):
-        return "If it's done twice, automate it. 🔁"
+current_jobs:
+  - vision-inspection:   cameras that catch assembly-line defects
+  - mes-erp:             Frappe / ERPNext apps for PMS, HRMS, CMMS, QA
+  - telemetry:           Grafana + Metabase on shop-floor data
+  - automation:          n8n, Node-RED and RPA across departments
+  - agents:              LLMs wired into everyday tools
+
+policy: "If it's done twice, automate it. 🔁"
 ```
 
 <div align="center">
@@ -66,20 +65,37 @@ class Capthusky:
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </div>
 
-## 🌆 Contribution Skyline
+## 📈 Telemetry
 
 <div align="center">
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=capthusky&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b1220&title_color=fbbf24&icon_color=7dd3fc&text_color=e2e8f0&ring_color=fbbf24" alt="GitHub stats"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=capthusky&hide_border=true&background=0b1220&ring=fbbf24&fire=fbbf24&currStreakNum=ffffff&sideNums=7dd3fc&currStreakLabel=fbbf24&sideLabels=7dd3fc&dates=94a3b8&stroke=1e293b" alt="GitHub streak"/>
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=capthusky&bg_color=0b1220&color=7dd3fc&line=fbbf24&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&custom_title=Output%20per%20shift%20(daily%20contributions)" alt="activity graph"/>
 </div>
 
-## 🐍 Contribution Snake
+## 🌃 Contribution City
 
 <div align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph"/>
+</div>
+
+## 🕹️ Arcade Mode
+
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capthusky/capthusky/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capthusky/capthusky/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/capthusky/capthusky/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capthusky/capthusky/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capthusky/capthusky/output/pacman-contribution-graph.svg"/>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/capthusky/capthusky/output/pacman-contribution-graph-dark.svg"/>
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/capthusky/capthusky/output/breakout-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capthusky/capthusky/output/breakout-contribution-graph.svg"/>
+  <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/capthusky/capthusky/output/breakout-contribution-graph-dark.svg"/>
+</picture>
+
 </div>
 
 <div align="center">
