@@ -68,7 +68,6 @@ policy: "If it's done twice, automate it. 🔁"
 ## 📈 Telemetry
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=capthusky&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0b1220&title_color=fbbf24&icon_color=7dd3fc&text_color=e2e8f0&ring_color=fbbf24" alt="GitHub stats"/>
 <img height="165" src="https://streak-stats.demolab.com/?user=capthusky&hide_border=true&background=0b1220&ring=fbbf24&fire=fbbf24&currStreakNum=ffffff&sideNums=7dd3fc&currStreakLabel=fbbf24&sideLabels=7dd3fc&dates=94a3b8&stroke=1e293b" alt="GitHub streak"/>
 <br/>
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=capthusky&bg_color=0b1220&color=7dd3fc&line=fbbf24&point=ffffff&area=true&area_color=0ea5e9&hide_border=true&custom_title=Output%20per%20shift%20(daily%20contributions)" alt="activity graph"/>
